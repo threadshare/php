@@ -164,14 +164,14 @@
 
 ###第三阶段
 
-这一部分的框架学习，我感觉直接进入实战，然后结合官方文档效果比较好，相反要是结合一些基础视频反而显得有点儿啰嗦！适合自己就好。
+这一部分的框架学习，我感觉直接进入实战，然后结合官方文档效果比较好，相反要是结合一些基础视频反而显得有点儿啰嗦！适合自己就好。（这一部分视频是我从网上收集来的，可能会涉及到侵权问题导致分享失败，如果特别需要可以加我微信之后和我说一下-zzc960316）
 
 1. [zend framework](http://pan.baidu.com/s/1boCxpmB)
-2. [Yii2.0全力出击打造完整电商平台](http://pan.baidu.com/s/1nvRSgpb)
-3. [前端到后台ThinkPHP开发整站](http://pan.baidu.com/s/1hsftl5q)
-4. [知乎实战laravel](http://pan.baidu.com/s/1bpDZv5P)
-5. [6小时jQuery开发小应用无密码](http://pan.baidu.com/s/1hr8Ppmk)
-6. [vue实战](http://pan.baidu.com/s/1eRCXd3W)
+2. [Yii2.0全力出击打造完整电商平台](http://pan.baidu.com/s/1o7JAHjc)
+3. [前端到后台ThinkPHP开发整站](http://pan.baidu.com/s/1kVFTrMZ)
+4. [知乎实战laravel](http://pan.baidu.com/s/1dFgnE9r)
+5. [6小时jQuery开发小应用无密码](http://pan.baidu.com/s/1b2yhg6)
+6. [vue实战](http://pan.baidu.com/s/1nuHAQyl)
 7. [从零开始打造自己的PHP框架](http://www.imooc.com/learn/696)
 
 ###第四阶段
