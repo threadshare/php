@@ -178,7 +178,7 @@
 
 我感觉这一阶段更适合读书，读一些讲解原理的书，而且也没有什么太好的视频。
 1. [OAuth2.0协议](http://www.imooc.com/learn/557)
-2. [mysql优化](http://pan.baidu.com/s/1jIBdnkM)
+2. [mysql优化](http://pan.baidu.com/s/1jHM0FjC)
 3. [数据结构与算法1](http://pan.baidu.com/s/1b0nXvS)
 4. [数据结构与算法2](http://pan.baidu.com/s/1pL2fDaj)
 
