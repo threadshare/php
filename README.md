@@ -146,9 +146,9 @@
 1. [HTML视频](http://pan.baidu.com/s/1dE6T3IL)
 2. [CSS视频](http://pan.baidu.com/s/1mhYz11I)
 3. [JavaScript视频](http://pan.baidu.com/s/1c1DHcHy)
-4. [php快速入门](http://pan.baidu.com/s/1hrEoT9q)
-5. [php基础巩固](http://pan.baidu.com/s/1pLnm4Wj)
-6. [PHP深入理解](http://pan.baidu.com/s/1dEFaXkH)
+4. [php快速入门](https://pan.baidu.com/s/1PgvDt9yfDtpRAwonxMKBG) 提取码: yraj
+5. ~~[php基础巩固](http://pan.baidu.com/s/1pLnm4Wj)视频太老了 不适合现在学习了  可以看书或者之有合适的再分享出来~~  
+6. ~~[PHP深入理解](http://pan.baidu.com/s/1dEFaXkH)视频太老了 不适合现在学习了  可以看书或者之有合适的再分享出来~~  
 7. [Linux入门](http://pan.baidu.com/s/1boJiPXH)
 8. [MySQL入门](http://pan.baidu.com/s/1kV7Dx59)
 9. [Apache简介](http://pan.baidu.com/s/1hrJE8TY)
